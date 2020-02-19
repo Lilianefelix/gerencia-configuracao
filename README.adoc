@@ -2,6 +2,12 @@
 :imagesdir: images
 :figure-caption: Figura
 
+//Habilitar sumário
+:toc: Sumário
+
+//Incluir numeração 
+:numbered:
+
 = Curso AsciiDoc
 
 == Comandos Iniciais

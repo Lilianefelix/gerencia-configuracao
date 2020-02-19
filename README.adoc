@@ -4,6 +4,7 @@
 
 //Habilitar sumário (left para)
 :toc: left
+:toc: Sumário
 
 //Incluir numeração nos títulos
 :numbered:

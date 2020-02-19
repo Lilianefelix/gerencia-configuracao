@@ -1,4 +1,5 @@
 :revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
+
 :imagesdir: images
 :figure-caption: Figura
 

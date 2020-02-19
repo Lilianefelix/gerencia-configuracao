@@ -43,6 +43,8 @@ image:rr.png[link=http://google.com]
 
 image:horizontal-scaling-small.gif[]
 
+=== Video
+
 video::DHLA8X_ujwo[youtube, width=640, height=480]
 
 

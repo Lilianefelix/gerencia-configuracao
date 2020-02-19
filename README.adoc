@@ -41,5 +41,8 @@
 .Scrum
 image:rr.png[link=http://google.com]
 
+image:horizontal-scaling-small.gif[]
+
+video::DHLA8X_ujwo[youtube, width=640, height=480]
 
 

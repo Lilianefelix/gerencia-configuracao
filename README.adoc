@@ -2,10 +2,10 @@
 :imagesdir: images
 :figure-caption: Figura
 
-//Habilitar sumário
-:toc: Sumário
+//Habilitar sumário (left para)
+:toc: left
 
-//Incluir numeração 
+//Incluir numeração nos títulos
 :numbered:
 
 = Curso AsciiDoc

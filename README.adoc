@@ -1,4 +1,4 @@
-
+:revealjsdir: https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0
 :imagesdir: images
 :figure-caption: Figura
 
@@ -54,4 +54,17 @@ image:horizontal-scaling-small.gif[]
 
 video::DHLA8X_ujwo[youtube, width=640, height=480]
 
+=== Código Fonte
 
+[source.java]
+----
+public void funcao(){
+    System.out.println("olá");
+}
+----
+
+.Calculo do quadrado de um número
+[souce,java]
+----
+include::Quadrado.java[]
+----

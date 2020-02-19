@@ -1,0 +1,45 @@
+
+:imagesdir: images
+:figure-caption: Figura
+
+= Curso AsciiDoc
+
+== Comandos Iniciais
+
+- Item 1
+- Item 2
+- Item 3
+    
+    *Subitem 1A
+
+1. Item 1
+2. Item 2
+
+=== Links
+
+- http://google.com
+- http://google.com[Google]
+
+
+=== Negrito e Italico
+*negrito*. _Itálico_.
+
+
+
+=== Tabelas
+
+|===
+| Coluna A | Coluna B | Coluna C
+| Coluna A | Coluna B | Coluna C
+| Coluna A | Coluna B | Coluna C
+3+| linha
+
+|===
+
+=== Imagens
+
+.Scrum
+image:rr.png[link=http://google.com]
+
+
+
